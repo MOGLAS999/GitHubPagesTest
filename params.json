@@ -1,6 +1,6 @@
 {
-  "name": "index",
-  "tagline": "",
+  "name": "test2",
+  "tagline": "test",
   "body": "#test2\r\n\r\n## test222222\r\n\r\n[index](./index.html)\r\n\r\n|0|1|2|\r\n|---|---|---|\r\n|yes|we|can|\r\n|are|you|ok|\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
