@@ -15,3 +15,27 @@
    - teest
 
 :+1:
+
+zero  
+ one  
+  two  
+   three  
+    four  
+     five  
+      six  
+       seven
+        eight
+         nine
+          ten
+
+- zero
+ - one
+  - two
+   - three
+    - four
+     - five
+      - six
+       - seven
+        - eight
+         - nine
+          - ten
